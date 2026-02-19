@@ -1,2 +1,2 @@
-👌Here, are some intresting project which are creating by using MERN
+👌Here, are some intresting projects which are creating by using MERN
 
